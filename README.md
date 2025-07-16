@@ -20,5 +20,4 @@ With **BetterBedrock**, you can automatically answer and progress through Bedroc
 ## 📥 Installation
 
 1. **Download or Clone this Repo**  
-   ```bash
-   git clone https://github.com/yourusername/BetterBedrock.git
+   ```Not yet ready. Please come back later.```
