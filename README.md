@@ -4,7 +4,7 @@ Hate doing your **Bedrock Learning**?
 With **BetterBedrock**, you can automatically answer and progress through Bedrock Learning activities — no effort required.  
 
 <p align="center">
-  <img src="assets/demo.gif" alt="BetterBedrock Demo" width="600">
+  <img src="https://github.com/ironyumrepos/BetterBedrock/blob/main/assets/demo.gif?raw=true" alt="BetterBedrock Demo" width="600">
 </p>
 
 ---
