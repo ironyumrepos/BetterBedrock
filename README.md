@@ -19,5 +19,5 @@ With **BetterBedrock**, you can automatically answer and progress through Bedroc
 
 ## 📥 Installation
 
-1. **Download or Clone this Repo**  
-   ```Not yet ready. Please come back later.```
+1. **Installing the extention**  
+   ```Chrome Extention under review```
